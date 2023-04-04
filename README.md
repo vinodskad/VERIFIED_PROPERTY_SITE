@@ -1,17 +1,17 @@
-# Constra - Free bootstrap construction template
+# VERIFIED PROPERTY - Free bootstrap construction template
 
-Constra is a theme for professional builders, construction or even industrial production companies with a focus on presenting the team, current and recent projects. Responsive development of the layouts makes the theme look good on any modern device.
+VERIFIED PROPERTY is a theme for professional builders, construction or even industrial production companies with a focus on presenting the team, current and recent projects. Responsive development of the layouts makes the theme look good on any modern device.
 
 <!-- demo -->
 ## Example Site
 
-| [![](screenshots/homepage-1.png)](https://demo.themefisher.com/constra/) | [![](screenshots/homepage-2.png)](https://demo.themefisher.com/constra/index-2.html) | [![](screenshots/about.png)](https://demo.themefisher.com/constra/about.html) |
+| [![](screenshots/homepage-1.png)](https://demo.themefisher.com/VERIFIED PROPERTY/) | [![](screenshots/homepage-2.png)](https://demo.themefisher.com/VERIFIED PROPERTY/index-2.html) | [![](screenshots/about.png)](https://demo.themefisher.com/VERIFIED PROPERTY/about.html) |
 |:---:|:---:|:---:|
 | **Homepage 1**  | **Homepage 2**  | **About**  |
-| [![](screenshots/service.png)](https://demo.themefisher.com/constra/services.html) | [![](screenshots/project.png)](https://demo.themefisher.com/constra/projects.html) | [![](screenshots/news.png)](https://demo.themefisher.com/constra/news-right-sidebar.html) |
+| [![](screenshots/service.png)](https://demo.themefisher.com/VERIFIED PROPERTY/services.html) | [![](screenshots/project.png)](https://demo.themefisher.com/VERIFIED PROPERTY/projects.html) | [![](screenshots/news.png)](https://demo.themefisher.com/VERIFIED PROPERTY/news-right-sidebar.html) |
 | **Service** | **Project** | **News** |
 
-👉🏻[View Live Preview](https://demo.themefisher.com/constra/)
+👉🏻[View Live Preview](https://demo.themefisher.com/VERIFIED PROPERTY/)
 
 <!-- resources -->
 ## Pages
@@ -37,7 +37,7 @@ Constra is a theme for professional builders, construction or even industrial pr
 <!-- download -->
 ## Download And installation
 
-Download this template from [Github](https://github.com/themefisher/constra/archive/main.zip)
+Download this template from [Github](https://github.com/themefisher/VERIFIED PROPERTY/archive/main.zip)
 
 <!-- installation -->
 ### Basic Usages
@@ -87,13 +87,13 @@ npm run build
 
 Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
 
-👉🏻 [visit documentation](https://docs.themefisher.com/constra/)
+👉🏻 [visit documentation](https://docs.themefisher.com/VERIFIED PROPERTY/)
 
 <!-- reporting issue -->
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Constra Template. Please Search [existing issues](https://github.com/themefisher/Constra-Bootstrap-Construction-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Constra-Bootstrap-Construction-Template/issues).
+We use GitHub Issues as the official bug tracker for the VERIFIED PROPERTY Template. Please Search [existing issues](https://github.com/themefisher/VERIFIED PROPERTY-Bootstrap-Construction-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/VERIFIED PROPERTY-Bootstrap-Construction-Template/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
@@ -103,9 +103,9 @@ If you have questions or need help integrating the product please [contact us](m
 <!-- licence -->
 ## License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](#)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/constra/blob/main/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/themefisher/VERIFIED PROPERTY/blob/main/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 

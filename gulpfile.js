@@ -37,7 +37,7 @@ gulp.task("html:build", function () {
     )
     .pipe(
       comments(`
-    WEBSITE: https://themefisher.com
+    WEBSITE: #
     TWITTER: https://twitter.com/themefisher
     FACEBOOK: https://www.facebook.com/themefisher
     GITHUB: https://github.com/themefisher/
@@ -65,7 +65,7 @@ gulp.task("scss:build", function () {
     .pipe(sourcemaps.write("/"))
     .pipe(
       comments(`
-    WEBSITE: https://themefisher.com
+    WEBSITE: #
     TWITTER: https://twitter.com/themefisher
     FACEBOOK: https://www.facebook.com/themefisher
     GITHUB: https://github.com/themefisher/
@@ -85,7 +85,7 @@ gulp.task("js:build", function () {
     .src(path.src.js)
     .pipe(
       comments(`
-  WEBSITE: https://themefisher.com
+  WEBSITE: #
   TWITTER: https://twitter.com/themefisher
   FACEBOOK: https://www.facebook.com/themefisher
   GITHUB: https://github.com/themefisher/
