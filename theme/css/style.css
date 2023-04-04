@@ -1687,6 +1687,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 .ts-service-box .ts-service-box-info {
   margin-left: 25px;
   margin-bottom: 40px;
+  padding-top: 15px;
 }
 
 .service-box-title {
