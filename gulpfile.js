@@ -38,9 +38,7 @@ gulp.task("html:build", function () {
     .pipe(
       comments(`
     WEBSITE: #
-    TWITTER: https://twitter.com/themefisher
-    FACEBOOK: https://www.facebook.com/themefisher
-    GITHUB: https://github.com/themefisher/
+    FACEBOOK: https://www.facebook.com/verifiedpropertyllp/
     `)
     )
     .pipe(gulp.dest(path.build.dirDev))
@@ -66,9 +64,7 @@ gulp.task("scss:build", function () {
     .pipe(
       comments(`
     WEBSITE: #
-    TWITTER: https://twitter.com/themefisher
-    FACEBOOK: https://www.facebook.com/themefisher
-    GITHUB: https://github.com/themefisher/
+    FACEBOOK: https://www.facebook.com/verifiedpropertyllp/
     `)
     )
     .pipe(gulp.dest(path.build.dirDev + "css/"))
@@ -86,9 +82,7 @@ gulp.task("js:build", function () {
     .pipe(
       comments(`
   WEBSITE: #
-  TWITTER: https://twitter.com/themefisher
-  FACEBOOK: https://www.facebook.com/themefisher
-  GITHUB: https://github.com/themefisher/
+  FACEBOOK: https://www.facebook.com/verifiedpropertyllp/
   `)
     )
     .pipe(gulp.dest(path.build.dirDev + "js/"))
